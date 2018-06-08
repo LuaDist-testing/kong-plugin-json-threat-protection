@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "kong-plugin-json-threat-protection"
-version = "1.0-0"
+version = "1.0-1"
 supported_platforms = {"linux", "macosx"}
 -- LuaDist source
 source = {
-  tag = "1.0-0",
+  tag = "1.0-1",
   url = "git://github.com/LuaDist-testing/kong-plugin-json-threat-protection.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/Trust1Team/kong-plugin-json-threat-protection",
---   tag = "1.0.0"
+--   tag = "1.0.1"
 -- }
 description = {
   summary = "The Kong JSON Threat Protection plugin.",
